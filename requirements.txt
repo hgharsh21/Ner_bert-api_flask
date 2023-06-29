@@ -1,0 +1,12 @@
+flask
+requests
+json
+transformers
+re
+os
+pandas 
+torch
+csv
+numpy
+tqdm
+Gunicorn
